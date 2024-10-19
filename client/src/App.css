@@ -1,0 +1,54 @@
+body {
+  background-color: #333333;
+  margin: 0px;
+  text-align: center;
+}
+
+.App h2 {
+  text-align: center;
+  color: white;
+  text-shadow: white 0 0 3px;
+  font-size: 40px;
+  margin: 0;
+}
+
+.App-about {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.App h1 {
+  text-align: center;
+  color: #95B8D1;
+  text-shadow: #95B8D1 0 0 5px;
+  font-size: 60px;
+  margin: 0px;
+}
+
+.App h3 {
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  width: 90%;
+  margin-left: 5%;
+}
+
+button {
+  width: 150px;
+  font-size: 30px;
+  border-radius: 10px;
+  border: 0;
+  text-align: center;
+  margin-top: 10px;
+  color: white;
+  background-color: #666A86;
+}
+
+#texti {
+  margin-top: 40px;
+  border-radius: 10px;
+  height: 30px;
+  border: 0;
+  color: white;
+  background-color: #666A86;
+}
